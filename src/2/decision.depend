@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1361047222 source:c:\documents and settings\alex\Рабочий стол\lab1\decision\main.cpp
+	"head.h"
+
+1361047602 c:\documents and settings\alex\Рабочий стол\lab1\decision\head.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<iterator>
+	<iomanip>
+
+1361016250 source:c:\documents and settings\alex\Рабочий стол\lab1\decision\head.cpp
+	"head.h"
+
+1361047222 source:g:\data\ipsa\10 semestr\labs\fenya\lab1\decision old\main.cpp
+	"head.h"
+
+1361104376 g:\data\ipsa\10 semestr\labs\fenya\lab1\decision old\head.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<iterator>
+	<iomanip>
+
+1361287105 source:g:\data\ipsa\10 semestr\labs\fenya\lab1\true\main.cpp
+	"head.h"
+
+1361287291 g:\data\ipsa\10 semestr\labs\fenya\lab1\true\head.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<iterator>
+	<iomanip>
+
+1361548392 source:g:\data\ipsa\10 semestr\labs\fenya\lab2\true\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<iterator>
+	<iomanip>
+	<cmath>
+
